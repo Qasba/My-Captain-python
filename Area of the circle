@@ -1,0 +1,4 @@
+#MY CAP-Python
+r=float(input("enter a value of radius:"))
+a=3.14*r*r
+print(a)
